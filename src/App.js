@@ -80,7 +80,7 @@ function App() {
           decProducts={handleDecProduct}
           removeProducts={handleRemoveProduct}
         />
-        <TotalCost />
+        <TotalCost products={products} />
       </div>
     </>
   );
