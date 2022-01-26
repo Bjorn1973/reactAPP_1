@@ -22,10 +22,10 @@ link: https://winkellijst-fe2-bjorn.surge.sh
 
 4. Examples
 
-![adding item](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example2)
-![added item view](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example3)
-![increment number of cheese](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example4)
-![deleted bread](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example5)
+![adding item](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example2.png)
+![added item view](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example3.png)
+![increment number of cheese](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example4.png)
+![deleted bread](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example5.png)
 
 5. Demo
 ![demo](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/demo.gif)
