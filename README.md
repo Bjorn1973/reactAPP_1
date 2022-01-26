@@ -3,12 +3,12 @@ link: https://winkellijst-fe2-bjorn.surge.sh
 1. Winkellijst
 
    first exercice using create-react-app
-   
-	![standard view](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example1.png)
-	
+
+   ![standard view](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example1.png)
+
 2. Description
 
-   We made a shopping list that contains 3 items in de useState.
+   We made a shopping list that contains 3 items in de state.
    It's possible to add new items to the list by entering the name, price and number of items you want.
    Subtotal and total will be calculated automatically.
    You can adjust the number of items by clicking the '+'- of '-'-button. When you do this, de subtotal and total
