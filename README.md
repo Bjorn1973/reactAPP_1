@@ -3,7 +3,9 @@ link: https://winkellijst-fe2-bjorn.surge.sh
 1. Winkellijst
 
    first exercice using create-react-app
+   
 	![standard view](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example1.png)
+	
 2. Description
 
    We made a shopping list that contains 3 items in de useState.
@@ -28,4 +30,5 @@ link: https://winkellijst-fe2-bjorn.surge.sh
 ![deleted bread](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/example5.png)
 
 5. Demo
+
 ![demo](https://github.com/Bjorn1973/reactAPP_1/blob/main/src/images/demo.gif)
